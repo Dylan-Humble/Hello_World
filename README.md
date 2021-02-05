@@ -2,5 +2,4 @@
 Practice Repository
 Hello
 
-I like to watch Netflix and cook food. 
-I may or may not be from Earth.
+I am a student at the University of Iowa. I am studying Finance and Business Analytics. I am a junior.
